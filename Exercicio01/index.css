@@ -1,0 +1,38 @@
+body {
+    color: white;
+    background-color: black;
+    font-family: Arial;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 16px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+header img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.center {
+    text-align: center;
+}
+
+.title{
+    color: rgb(208, 37, 37);
+    font-size: 18;
+}
+
+.rodape{
+    background-color: rgba(240, 1, 1, 0.468);
+    height: 150px;
+    display: flex;
+}
